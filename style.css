@@ -1601,15 +1601,14 @@ footer p {
 /* =========================
    COURSE DETAILS PAGE
    ========================= */
-
 body.course-details-page {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url("images/course-bg.jpg");
+    background-image: url("image/education-bg.png");
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #333;
 }
 
